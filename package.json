@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-amcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AMCP for querying CasparCG via telnet using the telnet-client JS library",
   "main": "amcp.js",
   "dependencies"  : {
