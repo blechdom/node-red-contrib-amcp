@@ -6,6 +6,7 @@
   "dependencies"  : {
         "telnet-client": "^0.15.5"
     },
+  "keywords": [ "node-red" ],
   "repository" : {
         "type":"git",
         "url":"https://github.com/blechdom/node-red-contrib-amcp.git"
